@@ -1,4 +1,4 @@
-# add_early_exit_to_EENN_training
+# Information Aware Early Exit Neural Network Training
 PRP project about Early Exit Neural Network(EENN).
 
 Try an new idea using three different networks.
